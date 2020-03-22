@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bebc67d0-002c-4944-bf87-9a02f06c3111" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGAU5k7Q0gXlb4L0GBntjfUZVJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="Python.turnout2020_code">
+    <configuration name="test_turnout2020_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Turnout2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_turnout2020_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turnout2020_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Turnout2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turnout2020_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.turnout2020_code" />
+        <item itemvalue="Python.test_turnout2020_code" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bebc67d0-002c-4944-bf87-9a02f06c3111" name="Default Changelist" comment="" />
+      <created>1584455069843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584455069843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="191" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584474694803">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="283" y="191" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.722@0.23.1280.722" timestamp="1584474694803" />
+    <state width="1259" height="157" key="GridCell.Tab.0.bottom" timestamp="1584817905295">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state width="1259" height="157" key="GridCell.Tab.0.bottom/0.23.1280.717@0.23.1280.717" timestamp="1584817905295" />
+    <state width="1259" height="157" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1584815689649" />
+    <state width="1249" height="98" key="GridCell.Tab.0.bottom/0.23.1280.773@0.23.1280.773" timestamp="1584481431088" />
+    <state width="1259" height="157" key="GridCell.Tab.0.center" timestamp="1584817905294">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state width="1259" height="157" key="GridCell.Tab.0.center/0.23.1280.717@0.23.1280.717" timestamp="1584817905294" />
+    <state width="1259" height="157" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1584815689647" />
+    <state width="1249" height="98" key="GridCell.Tab.0.center/0.23.1280.773@0.23.1280.773" timestamp="1584481431087" />
+    <state width="1259" height="157" key="GridCell.Tab.0.left" timestamp="1584817905293">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state width="1259" height="157" key="GridCell.Tab.0.left/0.23.1280.717@0.23.1280.717" timestamp="1584817905293" />
+    <state width="1259" height="157" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1584815689646" />
+    <state width="1249" height="98" key="GridCell.Tab.0.left/0.23.1280.773@0.23.1280.773" timestamp="1584481431086" />
+    <state width="1259" height="157" key="GridCell.Tab.0.right" timestamp="1584817905294">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state width="1259" height="157" key="GridCell.Tab.0.right/0.23.1280.717@0.23.1280.717" timestamp="1584817905294" />
+    <state width="1259" height="157" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1584815689649" />
+    <state width="1249" height="98" key="GridCell.Tab.0.right/0.23.1280.773@0.23.1280.773" timestamp="1584481431087" />
+    <state width="1249" height="227" key="GridCell.Tab.1.bottom" timestamp="1584479154559">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state width="1249" height="227" key="GridCell.Tab.1.bottom/0.23.1280.717@0.23.1280.717" timestamp="1584479154559" />
+    <state width="1249" height="227" key="GridCell.Tab.1.bottom/0.23.1280.722@0.23.1280.722" timestamp="1584477001901" />
+    <state width="1249" height="227" key="GridCell.Tab.1.center" timestamp="1584479154558">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state width="1249" height="227" key="GridCell.Tab.1.center/0.23.1280.717@0.23.1280.717" timestamp="1584479154558" />
+    <state width="1249" height="227" key="GridCell.Tab.1.center/0.23.1280.722@0.23.1280.722" timestamp="1584477001901" />
+    <state width="1249" height="227" key="GridCell.Tab.1.left" timestamp="1584479154557">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state width="1249" height="227" key="GridCell.Tab.1.left/0.23.1280.717@0.23.1280.717" timestamp="1584479154557" />
+    <state width="1249" height="227" key="GridCell.Tab.1.left/0.23.1280.722@0.23.1280.722" timestamp="1584477001900" />
+    <state width="1249" height="227" key="GridCell.Tab.1.right" timestamp="1584479154558">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state width="1249" height="227" key="GridCell.Tab.1.right/0.23.1280.717@0.23.1280.717" timestamp="1584479154558" />
+    <state width="1249" height="227" key="GridCell.Tab.1.right/0.23.1280.722@0.23.1280.722" timestamp="1584477001901" />
+    <state x="149" y="48" key="SettingsEditor" timestamp="1584455445420">
+      <screen x="0" y="23" width="1280" height="773" />
+    </state>
+    <state x="149" y="48" key="SettingsEditor/0.23.1280.773@0.23.1280.773" timestamp="1584455445420" />
+    <state x="313" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1584814809822">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="313" y="211" key="com.intellij.ide.util.TipDialog/0.23.1280.717@0.23.1280.717" timestamp="1584814464566" />
+    <state x="313" y="212" key="com.intellij.ide.util.TipDialog/0.23.1280.722@0.23.1280.722" timestamp="1584814809822" />
+    <state x="313" y="226" key="com.intellij.ide.util.TipDialog/0.23.1280.773@0.23.1280.773" timestamp="1584488783656" />
+    <state x="300" y="120" width="670" height="676" key="search.everywhere.popup" timestamp="1584462589416">
+      <screen x="0" y="23" width="1280" height="773" />
+    </state>
+    <state x="300" y="120" width="670" height="676" key="search.everywhere.popup/0.23.1280.773@0.23.1280.773" timestamp="1584462589416" />
+  </component>
+</project>
